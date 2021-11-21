@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/antec_dev/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/antec_dev/static/js/main.5b1c6bd2.chunk.js",
+    "main.js.map": "/antec_dev/static/js/main.5b1c6bd2.chunk.js.map",
+    "runtime-main.js": "/antec_dev/static/js/runtime-main.2d83763b.js",
+    "runtime-main.js.map": "/antec_dev/static/js/runtime-main.2d83763b.js.map",
+    "static/js/2.2b970455.chunk.js": "/antec_dev/static/js/2.2b970455.chunk.js",
+    "static/js/2.2b970455.chunk.js.map": "/antec_dev/static/js/2.2b970455.chunk.js.map",
+    "static/js/3.caab3e6a.chunk.js": "/antec_dev/static/js/3.caab3e6a.chunk.js",
+    "static/js/3.caab3e6a.chunk.js.map": "/antec_dev/static/js/3.caab3e6a.chunk.js.map",
+    "index.html": "/antec_dev/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/antec_dev/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.2b970455.chunk.js.LICENSE.txt": "/antec_dev/static/js/2.2b970455.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/antec_dev/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d83763b.js",
+    "static/js/2.2b970455.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.5b1c6bd2.chunk.js"
+  ]
+}
